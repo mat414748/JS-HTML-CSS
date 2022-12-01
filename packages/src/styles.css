@@ -1,0 +1,45 @@
+#head {
+    margin-left: 10px;
+}
+#foot {
+    position: fixed;
+    width: 800px;
+    text-align: center;
+    bottom: 0;
+    font-size: 20px;
+    border-top: 2px solid gray;
+}
+table {
+    position: relative;
+    margin-left: 0 auto;
+    left: 20%;
+    margin-right: auto;
+    border-spacing: 6px;
+}
+#header {
+    margin: auto;
+    width: 850px;
+    border-bottom: 2px solid gray;
+}
+#footer {
+    margin: auto;
+    width: 800px;
+}
+td {
+    font-size: 20px;
+    min-width: 200px;
+}
+.boldich {
+    font-weight: bold;
+}
+#da {
+    min-width: 800px;
+}
+img {
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+}
+div {
+    display: flex;
+}
